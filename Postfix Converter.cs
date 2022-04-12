@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace Project2
 {
+    //Converts infix expressions to postfix with algorithm
     public class PostfixConverter
     {
         bool isNum(char c)

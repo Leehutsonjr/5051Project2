@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace Project2
 {
+    //Converts infix expressions to prefix with algorithm
     public class PrefixConverter
     {
         public bool isNum(char c)

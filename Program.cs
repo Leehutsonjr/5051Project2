@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+
 namespace Project2
 {
     class Program
@@ -32,7 +34,7 @@ namespace Project2
             InFix.Add("9-6+8*2+8-3");
             InFix.Add("8*6-5*8+3*2/1");
             InFix.Add("9*9/3+5/5*5");
-            PostfixConverter PreCon = new();
+            PrefixConverter PreCon = new();
             List<string> PreFix = new();
             foreach (var s in InFix)
                 PreFix.Add(PreCon.converter(s));
@@ -42,6 +44,11 @@ namespace Project2
             Console.WriteLine("\nPostfix");
             foreach(var s in PreFix)
                 Console.WriteLine(s);
+            foreach (var s in PreFix)
+            {
+                char[] temp = s.ToCharArray();
+                Console.WriteLine(Evaluator.EvaluatePreFix(temp));
+            }
         }
     }
 }
