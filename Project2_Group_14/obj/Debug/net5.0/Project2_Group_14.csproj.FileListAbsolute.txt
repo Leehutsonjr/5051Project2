@@ -1,0 +1,16 @@
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\bin\Debug\net5.0\Project2_Group_14.exe
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\bin\Debug\net5.0\Project2_Group_14.deps.json
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\bin\Debug\net5.0\Project2_Group_14.runtimeconfig.json
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\bin\Debug\net5.0\Project2_Group_14.runtimeconfig.dev.json
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\bin\Debug\net5.0\Project2_Group_14.dll
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\bin\Debug\net5.0\ref\Project2_Group_14.dll
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\bin\Debug\net5.0\Project2_Group_14.pdb
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\obj\Debug\net5.0\Project2_Group_14.csproj.AssemblyReference.cache
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\obj\Debug\net5.0\Project2_Group_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\obj\Debug\net5.0\Project2_Group_14.AssemblyInfoInputs.cache
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\obj\Debug\net5.0\Project2_Group_14.AssemblyInfo.cs
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\obj\Debug\net5.0\Project2_Group_14.csproj.CoreCompileInputs.cache
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\obj\Debug\net5.0\Project2_Group_14.dll
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\obj\Debug\net5.0\ref\Project2_Group_14.dll
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\obj\Debug\net5.0\Project2_Group_14.pdb
+C:\Users\l_hut\source\repos\Fanshawe\2022Winter\5101\Project 2\Project2_Group_14\Project2_Group_14\obj\Debug\net5.0\Project2_Group_14.genruntimeconfig.cache
