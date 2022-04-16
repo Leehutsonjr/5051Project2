@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+    Name: Project 2
+    Coders: Lee Hutson & James Hill
+    Date: 2022-04-13
+ */
+
+using System;
 using System.Collections.Generic;
 
 namespace Project2
